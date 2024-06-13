@@ -84,3 +84,5 @@
 let str =prompt("u r name w/o space");
 let answer="@"+str+str.length;
 console.log(answer);
+let ans = 4;
+console.log(ans)
